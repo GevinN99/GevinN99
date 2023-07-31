@@ -3,10 +3,11 @@
 </p>
 <h1 align="center">Professional Graphic Developer, Designer, and Inventor 🎨💡 | Creating visual magic one project at a time 💫🚀</h1>
 <h3 align="center">I am a Full-stack Developer from Sri Lanka 🇱🇰 | Coding my way through innovation and passion 💻🚀</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p align="center">
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gevinn99&label=Profile%20views&color=0e75b6&style=flat" alt="gevinn99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gevinn99&label=Profile%20views&color=0e75b6&style=flat" alt="gevinn99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gevinn99&title=Commit,PullRequest,Repository" alt="gevinn99" /></a> </p>
 
